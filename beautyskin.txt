@@ -1,2 +1,0 @@
-https://webchat.botframework.com/embed/beautyskin-2dqabxp?s=vRekZKMvqyE.1BEr_r6d27gAPatmdAk6AdWvu96OUjRnXT3akudGPGQ
-'stylr='min-width:  400px; width:100%; 500px;'></iframe>
