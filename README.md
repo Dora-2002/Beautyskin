@@ -5,7 +5,7 @@ This web based application has been developed for the accomplishment of Future R
  
 Github repositary link -https://github.com/Dora-2002/beautyskin.git
 
-*Youtube vedio Link    -
+*Youtube vedio Link    -https://youtu.be/kjFLREHUZZ0
 
 *Project Demo Link     - https://mango-flower-04966b800.2.azurestaticapps.net
 
